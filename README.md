@@ -16,7 +16,7 @@
 # Kuliah Seismologi Kuantitatif MFF 5935
 Kuliah S2 di Departemen Fisika UGM, 3 SKS
 
-![Animasi_Gelombang](https://upload.wikimedia.org/wikipedia/commons/7/74/Simple_harmonic_motion_animation.gif)
+![Gelombang Seismik](http://www.indiana.edu/~geol105/images/gaia_chapter_3/seismicwaves.gif)
 
 ## Pengampu
 - Dr.rer.nat. Ade Anggraini, M.T.(Setelah Mid-Term)
