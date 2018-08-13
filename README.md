@@ -13,7 +13,7 @@
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
-# Kuliah Seismologi Kuantitatif
+# Kuliah Seismologi Kuantitatif MFF 5935
 Kuliah S2 di Departemen Fisika UGM, 3 SKS
 
 ![Animasi_Gelombang](https://upload.wikimedia.org/wikipedia/commons/7/74/Simple_harmonic_motion_animation.gif)
@@ -29,8 +29,8 @@ Follow me on [![alt text][1.1]][1]
 ## Jadwal
 
 Jadwal kuliah dua kali dalam satu minggu, yaitu:
-- Senin, jam 12:30 s.d. 14:10 di S1.101
-- Kamis, jam 11:30 s.d. 12:20 di S1.101
+- Selasa, jam 09:30 s.d. 11:10 di R222FIS
+- Jumat, jam 13:30 s.d. 14:20 di 220
 
 Kuliah fisika "jaman now", pastinya tidak lepas dari aplikasi komputer, sehingga dalam kuliah Gelombang ini juga pendekatan secara komputasi akan saya lakukan. Hal ini memungkinkan, karena bermunculannya bahasa pemrograman baru yang lebih moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org). Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/). Tentusaja saya tidak akan mengajarkan materi komputasi di dalam kuliah Gelombang ini, namun senyampang materi-materi kuliah disampaikan, selingan akan pemakaian komputer untuk memecahkan masalah gelombang akan terselip dalam materi kuliah. Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Fisika dan Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
 
