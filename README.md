@@ -24,7 +24,7 @@ Kuliah S2 di Departemen Fisika UGM, 3 SKS
 Follow me on [![alt text][1.1]][1]
 
 ## Prasyarat: MFF 1012 (Fisika Dasar 2).
-**Silabus**: Osilasi; Gerak Gelombang; Gelombang Mekanis; Gelombang Bunyi dalam Padatan, Cairan dan Gas; Pantulan Gelombang dan Gelombang Berdiri; Gelombang Bola dan Silinder; Gelombang dalam Media takseragam dan Gelombang Multidimensi; Efek Doppler Gelombang Bunyi dan Gelombang Kejut; Gelombang Elektromagnetik; Radiasi Gelombang Elektromagnetik; Metode Fourier; Interferensi dan Difraksi.
+**Silabus**: Gempa bumi dan teori elastisitas, getaran dan gelombang seismik, fungsi Gree, Gelombang melalui bagian bada bumi, gelombang Permukaan (Rayleigh, Love dan Stoneley), dispersi, pantulan, pembiasan,.
 
 ## Jadwal
 
@@ -50,10 +50,8 @@ Berikut jadwal pertemuan setiap minggunya
 
 
 ## BukuAcuan:
-1. Hirose, A., dan K.E. Longren, 1985: Introduction to wave phenomena, John Wiley & Sons.
-2. Pain, H.J., 2005: The physics of vibrations and waves, J.Wiley& Sons.
-3. Zahara M., 1994: Gelombang dan optika, Proyek Pembinaan Tenaga Kependidikan PT, Ditjen DIKTI, Depdikbud.
-
+1. Aki, K., dan P.G. Richard, 2002: Quantitative Seismology, W.H. Freeman.
+2. 
 <img src="https://books.google.co.id/books/content?id=fEc1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72LpmpsgR5599Zt1OHcgkLGS_Gc9UP3Qq8Dw_wOYoM0kPPAczu0pFznJKDywZHx-OuE1XzYEAkEL9HF-FtZjNikqJ5ZT9NlV02R_fnOODRaHshzwpPv-as-pbnA2xCWjDt2vj-u" width=128px height=161px alt='Akira Hirose'> <img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4700/9780470012956.jpg" width=128px height=161px alt='HJ Pain'>
 
 
