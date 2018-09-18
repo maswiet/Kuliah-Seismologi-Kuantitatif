@@ -32,20 +32,15 @@ Jadwal kuliah dua kali dalam satu minggu, yaitu:
 - Selasa, jam 09:30 s.d. 11:10 di R222FIS
 - Jumat, jam 13:30 s.d. 14:20 di 220
 
-Kuliah fisika "jaman now", pastinya tidak lepas dari aplikasi komputer, sehingga dalam kuliah Gelombang ini juga pendekatan secara komputasi akan saya lakukan. Hal ini memungkinkan, karena bermunculannya bahasa pemrograman baru yang lebih moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org). Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/). Tentusaja saya tidak akan mengajarkan materi komputasi di dalam kuliah Gelombang ini, namun senyampang materi-materi kuliah disampaikan, selingan akan pemakaian komputer untuk memecahkan masalah gelombang akan terselip dalam materi kuliah. Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Fisika dan Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
+Kuliah Seismologi kuantitatif diberikan dengan pendekatan komputasi seismologi. Wawasan mengenai pemakaian komputer untuk menyelesaikan permasalahan seismologi, dalam hal ini mengenai perambatan gelombang seismik di medium bumi akan disampaikan secara berurutan.
 
 Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
 | 1     | Tentang osilasi | [Bahan Kuliah](http://nbviewer.ipython.org/github/maswiet/Kuliah_Gelombang/Minggu_1_Osilasi.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#) |
-| 2     | Gerak gelombang | [T.B.A](#) |
-| 3     | Dasar matematika | [T.B.A](#) |
-| 4     | Gelombang mekanik | [T.B.A](#) |
-| 5     | Gelombang suara melalui medium padat, cair dan gas | [T.B.A](#) |
-| 6     | Refleksi gelombang dan gelombang berdiri | [T.B.A](#) |
-| 7     | Gelombang sferis, gelombang multidimensional | [T.B.A](#) |
-| 8     | Ujian Tengah Semester | [T.B.A](#) |
+| 6     | Pemodelan Gelombang Seismik 2D | [T.B.A](#) |
+
 
 
 
