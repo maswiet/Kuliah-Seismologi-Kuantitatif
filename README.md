@@ -46,7 +46,7 @@ Berikut jadwal pertemuan setiap minggunya
 
 ## BukuAcuan:
 1. Aki, K., dan P.G. Richard, 2002: Quantitative Seismology, W.H. Freeman.
-2. 
+2. Igel, H., Computational Seismology, Cambridge University Press.
 <img src="http://t3.gstatic.com/images?q=tbn:ANd9GcSFbkDFo0_fFu9L2fIyD9KhRAAEJ0-x4KWZOgSl2leCGkdwYqV7" width=128px height=161px alt='Akira Hirose'> <img src="http://t2.gstatic.com/images?q=tbn:ANd9GcQiGb3uvXOECRVEuEiydDC09oxjIL41vW36TOt0LDxvbKbAZr_q" width=128px height=161px alt='HJ Pain'>
 
 
