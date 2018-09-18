@@ -47,7 +47,7 @@ Berikut jadwal pertemuan setiap minggunya
 ## BukuAcuan:
 1. Aki, K., dan P.G. Richard, 2002: Quantitative Seismology, W.H. Freeman.
 2. 
-<img src="https://books.google.co.id/books/content?id=fEc1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72LpmpsgR5599Zt1OHcgkLGS_Gc9UP3Qq8Dw_wOYoM0kPPAczu0pFznJKDywZHx-OuE1XzYEAkEL9HF-FtZjNikqJ5ZT9NlV02R_fnOODRaHshzwpPv-as-pbnA2xCWjDt2vj-u" width=128px height=161px alt='Akira Hirose'> <img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4700/9780470012956.jpg" width=128px height=161px alt='HJ Pain'>
+<img src="http://t3.gstatic.com/images?q=tbn:ANd9GcSFbkDFo0_fFu9L2fIyD9KhRAAEJ0-x4KWZOgSl2leCGkdwYqV7" width=128px height=161px alt='Akira Hirose'> <img src="http://t2.gstatic.com/images?q=tbn:ANd9GcQiGb3uvXOECRVEuEiydDC09oxjIL41vW36TOt0LDxvbKbAZr_q" width=128px height=161px alt='HJ Pain'>
 
 
  [1]: http://www.twitter.com/maswiet
