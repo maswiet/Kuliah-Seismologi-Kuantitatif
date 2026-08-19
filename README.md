@@ -38,7 +38,7 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Tentang osilasi | [Bahan Kuliah](http://nbviewer.ipython.org/github/maswiet/Kuliah_Gelombang/Minggu_1_Osilasi.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#) |
+| 1     | Pengantar | [](Week01.md)|
 | 6     | Pemodelan Gelombang Seismik 2D | [T.B.A](#) |
 
 
