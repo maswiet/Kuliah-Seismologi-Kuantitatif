@@ -38,7 +38,7 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Pengantar | [](Week01.md)|
+| 1     | Pengantar | [Minggu 01](Week01.md)|
 | 6     | Pemodelan Gelombang Seismik 2D | [T.B.A](#) |
 
 
